@@ -1,0 +1,1 @@
+An elegant and comprehensive solution to the HackerRank 'Check Weird' problem, meticulously crafted to pass all test cases. This repository includes clear code, robust test cases, and executable logic to demonstrate problem-solving prowess.
